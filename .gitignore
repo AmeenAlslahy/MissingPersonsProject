@@ -1,0 +1,22 @@
+# Python & Django
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+db.sqlite3
+*.log
+
+# Flutter
+.dart_tool/
+.idea/
+.vscode/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# AI & Data
+.ipynb_checkpoints
+*.h5
+*.weights
+dataset/
